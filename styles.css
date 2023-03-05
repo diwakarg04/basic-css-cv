@@ -1,0 +1,28 @@
+/*************************************** TAG SELECTION ***************************/
+body{
+    background-color: #E1EEDD;
+}
+hr{
+    background-color: white;
+    border-style: dotted none none;
+    border-color: grey ;
+    height: 0px;
+    border-width: 5px;
+    width: 5% ;
+}
+img{
+    height: 5cm;
+    width: 5cm;
+}
+h1{
+    font-family: "Brush Script MT" ;
+    color: #40513B;
+    height: 20px ;
+}
+h3{
+    font-family: "copperplate" ;
+    color: #40513B;
+}
+h3:hover{
+    background-color: #FEFBE9;
+}
